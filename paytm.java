@@ -3,4 +3,7 @@ By Tom
 
 modifications by jerry
 Adding some content 
+
+Fixing the problem to do the patching
+
 Adding a new function which will detect driver details when notification come from driver app
