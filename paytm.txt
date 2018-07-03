@@ -1,2 +1,0 @@
-
-this file contains the list of customers who are in being tetsted for paytm
